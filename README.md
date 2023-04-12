@@ -20,9 +20,10 @@
 <h2>Preview</h2>
 
 - Browser:
-<div style="height: 50%">
+<img src="https://user-images.githubusercontent.com/20993374/231539519-b9042da5-a6a8-4c35-8f20-6cc7dd490489.png" width="300px"/>
+
   ![image](https://user-images.githubusercontent.com/20993374/231539519-b9042da5-a6a8-4c35-8f20-6cc7dd490489.png)
-</div>
+
 
 
 <br />
