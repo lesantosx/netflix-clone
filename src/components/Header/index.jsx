@@ -22,8 +22,8 @@ export default function Header({ black }) {
       </div>
             
       <div className="header--user">
-        <SearchIcon sx={{ fontSize: 30 }}/>        
-        <NotificationsNoneIcon sx={{ fontSize: 30 }}/>          
+        <SearchIcon sx={{ fontSize: 30 }} className="header--icons"/>        
+        <NotificationsNoneIcon sx={{ fontSize: 30 }} className="header--icons"/>          
         <a href="#">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="" />
         </a>

@@ -64,8 +64,8 @@ header.black {
   font-weight: bold;
 }
 
-@media (max-width: 760px) { 
-  .header--menu {
-    display: none;
+@media (max-width: 414px) { 
+  .header--menu, .header--icons {
+    display: none !important;
   } 
 }
