@@ -7,6 +7,7 @@ header {
   height: 70px;
   display: flex;
   justify-content: space-between;
+  vertical-align: middle;
   align-items: center;
   padding: 0 30px;
   background: transparent;
@@ -27,9 +28,38 @@ header.black {
 
 .header--user {
   height: 35px;
+  display: flex;
 }
 
 .header--user img {
   height: 100%;
   border-radius: 3px;  
+}
+
+.header--user svg {
+  height: 100%;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.header--menu {
+  height: 100%;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.header--menu a {
+  text-decoration: none;
+  font-size: 14px;
+  color: #e5e5e5;
+ margin-left: 20px;  
+  transition: all ease 0.3s;
+  align-items: center;
+}
+
+.header--menu a:hover {
+  color: #cccccc;
+  font-weight: bold;
 }
