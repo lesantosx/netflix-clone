@@ -18,8 +18,8 @@
 <h1>Preview</h1>
 
 ![image](https://user-images.githubusercontent.com/20993374/231539519-b9042da5-a6a8-4c35-8f20-6cc7dd490489.png)
-![WhatsApp Image 2023-04-12 at 2 39 19 PM](https://user-images.githubusercontent.com/20993374/231539754-79afaa8e-8ad3-490a-a193-2bd44730e48d.jpeg)
-![WhatsApp Image 2023-04-12 at 2 39 33 PM](https://user-images.githubusercontent.com/20993374/231539765-080bb385-45ec-42a8-b463-8b23124624d5.jpeg)
+
+![Design sem nome (1)](https://user-images.githubusercontent.com/20993374/231541377-df6b2af2-3b6c-4b56-a0b4-e095faed331f.png)
 
 
 ## Running
