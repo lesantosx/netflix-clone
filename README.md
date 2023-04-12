@@ -17,9 +17,12 @@
 
 <h1>Preview</h1>
 - Browser:
+
 ![image](https://user-images.githubusercontent.com/20993374/231539519-b9042da5-a6a8-4c35-8f20-6cc7dd490489.png)
 <br />
 - Mobile:
+
+
 ![Design sem nome (1)](https://user-images.githubusercontent.com/20993374/231541377-df6b2af2-3b6c-4b56-a0b4-e095faed331f.png)
 
 
