@@ -4,9 +4,9 @@ import './Footer.css'
 export default function Footer(){
   return (
     <footer className="footer">
-      Developed by lesantosx<br />
-      Image rights for Netflix<br />
-      Data from TheMoviedb.org website
+      Developed by <a href="https://github.com/lesantosx" target="_blank" rel="noreferrer">lesantosx</a>.<br />
+      This site is a reconstruction of the Netflix platform, for study purposes.<br />
+      Credits: Image rights for <a href="https://www.netflix.com/browse" target="_blank" rel="noreferrer">Netflix</a> and Data from <a href="https://www.themoviedb.org/" target="_blank" rel="noreferrer">TheMoviedb.org</a> website.
     </footer>
   )
 }
