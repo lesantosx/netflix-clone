@@ -20,14 +20,11 @@
 <h2>Preview</h2>
 
 - Browser:
-<img src="https://user-images.githubusercontent.com/20993374/231539519-b9042da5-a6a8-4c35-8f20-6cc7dd490489.png" width="80%"/>
-
-  ![image](https://user-images.githubusercontent.com/20993374/231539519-b9042da5-a6a8-4c35-8f20-6cc7dd490489.png)
-
+<img src="https://user-images.githubusercontent.com/20993374/231539519-b9042da5-a6a8-4c35-8f20-6cc7dd490489.png" width="90%"/>
 
 
 <br />
 
 - Mobile:
 
-![Design sem nome (1)](https://user-images.githubusercontent.com/20993374/231545523-ac3c615d-aa41-4e18-85ec-e39bcaab4ce2.png)
+<img src="https://user-images.githubusercontent.com/20993374/231545523-ac3c615d-aa41-4e18-85ec-e39bcaab4ce2.png" width="90%"/>
