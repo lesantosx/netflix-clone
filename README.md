@@ -20,8 +20,7 @@
 <h2>Preview</h2>
 
 - Web Browser:
-<img src="https://user-images.githubusercontent.com/20993374/231539519-b9042da5-a6a8-4c35-8f20-6cc7dd490489.png" width="90%"/>
-
+<img src="https://user-images.githubusercontent.com/20993374/231560755-b21ae57b-a516-41e8-beb5-9211967b4360.png" width="90%"/>
 
 <br />
 
