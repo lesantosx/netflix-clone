@@ -1,7 +1,7 @@
 <h1>Netflix Clone</h1>
 This project is a simplified clone of Netflix platform.
 
-<br /><br />
+<br />
 
 ![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=development&color=GREEN&style=for-the-badge) 
 ![Badge](https://img.shields.io/badge/With-Alura-%237159c1?style=for-the-badge&logo=blue)
