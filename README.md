@@ -27,4 +27,4 @@
 
 - Mobile:
 
-<img src="https://user-images.githubusercontent.com/20993374/231545523-ac3c615d-aa41-4e18-85ec-e39bcaab4ce2.png" width="70%"/>
+<img src="https://user-images.githubusercontent.com/20993374/231545523-ac3c615d-aa41-4e18-85ec-e39bcaab4ce2.png" width="50%"/>
