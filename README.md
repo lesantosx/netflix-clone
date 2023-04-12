@@ -1,5 +1,6 @@
 <h1>Netflix Clone</h1>
 This project is a simplified clone of Netflix platform.
+
 <br />
 
 ![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=development&color=GREEN&style=for-the-badge) 
@@ -17,6 +18,7 @@ This project is a simplified clone of Netflix platform.
 - <a href="https://developers.themoviedb.org/3/getting-started/introduction">The Movie Database API</a> 
 
 <br />
+
 <h2>Preview</h2>
 
 - Browser:
@@ -24,6 +26,7 @@ This project is a simplified clone of Netflix platform.
 ![image](https://user-images.githubusercontent.com/20993374/231539519-b9042da5-a6a8-4c35-8f20-6cc7dd490489.png)
 
 <br />
+
 - Mobile:
 
 ![Design sem nome (1)](https://user-images.githubusercontent.com/20993374/231545523-ac3c615d-aa41-4e18-85ec-e39bcaab4ce2.png)
