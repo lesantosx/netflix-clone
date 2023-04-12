@@ -28,7 +28,6 @@ header.black {
 
 .header--user {
   height: 35px;
-  /*display: flex;*/
 }
 
 .header--user img {
@@ -65,7 +64,7 @@ header.black {
 }
 
 @media (max-width: 414px) { 
-  .header--menu, .header--icons {
+  .header--menu {
     display: none !important;
   } 
 }
