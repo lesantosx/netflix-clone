@@ -28,7 +28,7 @@ header.black {
 
 .header--user {
   height: 35px;
-  display: flex;
+  /*display: flex;*/
 }
 
 .header--user img {
