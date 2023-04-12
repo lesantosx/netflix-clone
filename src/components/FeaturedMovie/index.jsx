@@ -34,10 +34,10 @@ export default function FeaturedMovie({ item }){
           </div>
           <div className="featured--description">{description}</div>
           <div className="featured--buttons">
-            <a href={`/watch/${item.id}`} className="featured--playbtn">
+            <a href='#play' className="featured--playbtn">
               <PlayArrowIcon /> Play
               </a>
-            <a href={`/list/add/${item.id}`} className="featured--mylistbtn"><InfoOutlinedIcon /> More Info</a>
+            <a href='#addlist' className="featured--mylistbtn"><InfoOutlinedIcon /> More Info</a>
           </div>
           <div className="featured--genres">{item.genres.length !== 0 ? 'Genres:' : ''} {genres.join(', ')}</div>
         </div>
