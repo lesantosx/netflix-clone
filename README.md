@@ -1,4 +1,4 @@
-<h1>Netflix Clone</h1>
+<h1>Netflix Clone | v1.0</h1>
 <p>This project is a simplified clone of Netflix platform. <br />Credits: Image rights for Netflix and Data from TheMoviedb.org website.</p> 
 
 <br />
