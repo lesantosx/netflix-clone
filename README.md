@@ -3,7 +3,7 @@
 
 <br />
 
-![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=development&color=GREEN&style=for-the-badge) 
+![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=finished&color=GREEN&style=for-the-badge) 
 
 <h2>:computer: Technologies</h2>
 
